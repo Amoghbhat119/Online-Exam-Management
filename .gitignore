@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+.env
+*.log
+
+# build output
+/dist
+/build
+/frontend/node_modules
